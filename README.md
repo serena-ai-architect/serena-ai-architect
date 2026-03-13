@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1200&color=A3B8CC&center=true&vCenter=true&repeat=true&width=700&height=65&lines=Production+multi-agent+systems+for+financial+infrastructure;From+enterprise+governance+to+agentic+architecture;9%2B+years+shipping+systems+that+run+at+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=A3B8CC&center=true&vCenter=true&repeat=true&width=780&height=60&lines=Multi-agent+systems+for+financial+infrastructure;Enterprise+governance+%E2%86%92+agentic+architecture;9%2B+years+shipping+systems+that+run+at+scale)](https://git.io/typing-svg)
 
 </div>
 
