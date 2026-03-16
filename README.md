@@ -206,8 +206,6 @@ serena@infra:~$ tail -f ./current.log
 serena@infra:~$ cat ./connect.md
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serenawang-happyhacking/)
-&ensp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:serena.happyhacking@gmail.com)
 
 <br>
