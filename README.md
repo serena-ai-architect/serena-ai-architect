@@ -1,12 +1,12 @@
 <!-- ════════════════════════════════════════════════════════════════════
      agent:   serena
-     domain:  enterprise AI infrastructure · agentic architecture · regulated systems
+     domain:  enterprise AI architect · agentic orchestration · regulated environments
      status:  building the AI layer enterprises actually need
      ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=A3B8CC&center=true&vCenter=true&repeat=true&width=780&height=60&lines=Enterprise+AI+infrastructure+%E2%80%94+not+demos%2C+systems;MCP+%C2%B7+RAG+pipelines+%C2%B7+multi-model+orchestration;9%2B+years+shipping+in+regulated+environments)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=A3B8CC&center=true&vCenter=true&repeat=true&width=780&height=60&lines=Enterprise+AI+architect+%E2%80%94+not+demos%2C+production;MCP+%C2%B7+RAG+pipelines+%C2%B7+multi-agent+orchestration;10+years+shipping+in+regulated+environments)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,13 +19,13 @@ serena@infra:~$ cat /etc/profile
 ```yaml
 # ─── SYSTEM PROFILE ─────────────────────────────────────────────────
 #
-#   I design composable, production-grade AI infrastructure
+#   I architect composable, production-grade AI systems
 #   that plugs into enterprise workflows —
 #   MCP tool servers, RAG pipelines, multi-agent orchestration,
 #   and evaluation frameworks that make AI reliable enough
 #   for regulated environments.
 #
-#   9+ years delivering enterprise IT at scale
+#   10 years delivering enterprise IT at scale
 #   (SOE, banking, e-commerce) across 40+ vendor ecosystems,
 #   now building the foundational AI layer on top of it.
 #
@@ -168,7 +168,7 @@ ai_infrastructure:
 
 enterprise_context:
   why_this_matters: |
-    I've spent 9+ years on the other side of the table —
+    I've spent 10 years on the other side of the table —
     governing 40+ vendor ecosystems, running 30-person teams,
     and delivering under regulatory audit pressure.
     I know what enterprises actually need from AI infrastructure:
@@ -194,7 +194,7 @@ serena@infra:~$ tail -f ./current.log
 [2026-03]  BUILDING    MCP tool servers · RAG pipelines · evaluation frameworks
 [2026-03]  DESIGNING   Compliance-as-infrastructure for HKMA/SFC-regulated firms
 [2026-03]  SHIPPING    Production agent orchestration (TypeScript + Python)
-[2026-03]  LOOKING FOR Enterprise AI infrastructure roles — the layer that makes AI
+[2026-03]  LOOKING FOR Enterprise AI architect roles — the layer that makes AI
                        actually work inside organizations, not another wrapper on GPT
 ```
 
@@ -206,6 +206,8 @@ serena@infra:~$ tail -f ./current.log
 serena@infra:~$ cat ./connect.md
 ```
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serena-ai-architect/)
+&ensp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:serena.happyhacking@gmail.com)
 
 <br>
