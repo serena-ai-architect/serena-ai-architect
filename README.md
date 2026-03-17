@@ -45,7 +45,7 @@ serena@infra:~$ ls -la ./infra-projects --sort=priority
 
 <td width="50%" valign="top">
 
-### [`fin-intel-mcp`](https://github.com/serenahappyhacking/fin-intel-mcp) &ensp; <img src="https://img.shields.io/badge/status-production-22C55E?style=flat-square" />
+### [`fin-intel-mcp`](https://github.com/serena-ai-architect/fin-intel-mcp) &ensp; <img src="https://img.shields.io/badge/status-production-22C55E?style=flat-square" />
 
 **Financial Intelligence MCP Server**
 
@@ -65,7 +65,7 @@ infra    Supabase · Langfuse tracing · FinBERT
 
 <td width="50%" valign="top">
 
-### [`agentflow`](https://github.com/serenahappyhacking/agentflow) &ensp; <img src="https://img.shields.io/badge/status-phase__1__complete-22C55E?style=flat-square" />
+### [`agentflow`](https://github.com/serena-ai-architect/agentflow) &ensp; <img src="https://img.shields.io/badge/status-phase__1__complete-22C55E?style=flat-square" />
 
 **AI-Native Enterprise Work Platform**
 
@@ -87,7 +87,7 @@ phase2   LLM Coding Agent · dual-model cross review
 
 <td width="50%" valign="top">
 
-### [`ai-investment-analyst`](https://github.com/serenahappyhacking/ai-investment-analyst) &ensp; <img src="https://img.shields.io/badge/status-v1__complete-22C55E?style=flat-square" />
+### [`ai-investment-analyst`](https://github.com/serena-ai-architect/ai-investment-analyst) &ensp; <img src="https://img.shields.io/badge/status-v1__complete-22C55E?style=flat-square" />
 
 **Multi-Agent Orchestration + Evaluation Framework**
 
@@ -107,7 +107,7 @@ infra    Supabase RLS · Notion MCP · Langfuse-ready
 
 <td width="50%" valign="top">
 
-### [`adwing`](https://github.com/serenahappyhacking/adwing) &ensp; <img src="https://img.shields.io/badge/status-MVP-3B82F6?style=flat-square" />
+### [`adwing`](https://github.com/serena-ai-architect/adwing) &ensp; <img src="https://img.shields.io/badge/status-MVP-3B82F6?style=flat-square" />
 
 **Pattern Portability Across Domains**
 
