@@ -65,20 +65,19 @@ infra    Supabase · Langfuse tracing · FinBERT
 
 <td width="50%" valign="top">
 
-### `agentic-compliance-infra` &ensp; <img src="https://img.shields.io/badge/status-designing-8B5CF6?style=flat-square" />
+### [`agentflow`](https://github.com/serenahappyhacking/agentflow) &ensp; <img src="https://img.shields.io/badge/status-phase__1__complete-22C55E?style=flat-square" />
 
-**Compliance-as-Infrastructure for Financial Institutions**
+**AI-Native Enterprise Work Platform**
 
-Translating regulatory requirements (HKMA/SFC)
-into enforceable, auditable agent checkpoints —
-building the compliance layer into the system itself,
-not bolting monitoring on after the fact.
+Replaced 2 ops engineers with approval-driven multi-cloud
+automation. Phase 2 adds LLM Coding Agent + conversational
+cloud ops — replacing outsourced dev team with AI.
 
 ```
-domain   RegTech · FinTech · Institutional Governance
-scope    HKMA/SFC framework alignment
-method   Regulation-to-code translation engine
-status   Architecture design phase
+stack    Python · FastAPI · APScheduler · SQLite
+cloud    Alibaba (10 modules) · Huawei (Ascend GPU) · Tencent
+IM       Lark approval workflows · bot notifications
+phase2   LLM Coding Agent · dual-model cross review
 ```
 
 </td>
@@ -122,6 +121,24 @@ stack    TypeScript · LangGraph.js · Next.js 15
 models   Claude Sonnet (gen) + Haiku (eval)
 pattern  Reflexion loop · conditional crew routing
 infra    Prisma · BullMQ · Redis · Storybook
+```
+
+</td>
+
+</tr>
+<tr>
+
+<td colspan="2" valign="top">
+
+### `agentic-compliance-infra` &ensp; <img src="https://img.shields.io/badge/status-designing-8B5CF6?style=flat-square" />
+
+**Compliance-as-Infrastructure for Financial Institutions**
+
+Translating regulatory requirements (HKMA/SFC) into enforceable, auditable agent checkpoints — building the compliance layer into the system itself, not bolting monitoring on after the fact.
+
+```
+domain   RegTech · FinTech · Institutional Governance          scope    HKMA/SFC framework alignment
+method   Regulation-to-code translation engine                 status   Architecture design phase
 ```
 
 </td>
