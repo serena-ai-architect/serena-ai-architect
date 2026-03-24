@@ -120,8 +120,7 @@ infra    Prisma · BullMQ · Redis · Storybook
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
+<td valign="top">
 
 ### [`hk-regtech-mcp`](https://github.com/serena-ai-architect/hk-regtech-mcp) &ensp; <img src="https://img.shields.io/badge/status-production-22C55E?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-4f46e5?style=flat-square&logoColor=white" />
 
@@ -131,40 +130,33 @@ Not an app — a capability layer. 9 MCP tools that any AI system auto-discovers
 
 ```
 stack       Python · FastAPI · MCP SDK · pgvector
-tools       9 MCP tools: HK compliance · HKEX filings · cross-border risk · SEC RAG · sentiment · technicals
 RAG         BM25 + vector + RRF fusion · cross-encoder rerank
-compliance  HKMA (GenAI Sandbox, TM-G-1) · SFC (VA licensing) · PDPO (6 principles) · HKEX (disclosure)
-consumers   agentic-analyst (first consumer) · Claude Desktop · any MCP-compatible agent
+compliance  HKMA · SFC · PDPO · HKEX (15 rules, 6 cross-border factors)
+consumers   agentic-analyst · Claude Desktop · any MCP-compatible agent
 ```
 
-> *You don't say "Stripe API is for humans" — it's for software to call.*
-> *hk-regtech-mcp is for AI agents to call. Users don't need to know it exists —*
-> *their AI assistant just becomes better at Hong Kong compliance.*
+> *hk-regtech-mcp is for AI agents to call. Users don't need to know it exists — their AI assistant just becomes better at Hong Kong compliance.*
 
 </td>
-
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td valign="top">
 
 ### [`fin-agent-skills`](https://github.com/serena-ai-architect/fin-agent-skills) &ensp; <img src="https://img.shields.io/badge/status-production-22C55E?style=flat-square" /> <img src="https://img.shields.io/badge/Skills-8B5CF6?style=flat-square&logoColor=white" />
 
 **Engineering Methodology as Installable Skills**
 
-Not documentation — executable methodology. 2 Claude Code Skills (`/analyst` + `/regtech`) that encode the patterns behind skill-composition, compliance-as-infrastructure, hybrid RAG, and 8-layer test pyramids. Install with `./setup`.
+Not documentation — executable methodology. 2 Claude Code Skills (`/analyst` + `/regtech`) that encode the patterns behind skill-composition, compliance-as-infrastructure, hybrid RAG, and 8-layer test pyramids.
 
 ```
-stack       SKILL.md · VitePress · GitHub Pages
-skills      /analyst (8 sub-commands) · /regtech (7 sub-commands)
-patterns    skill-composition · quality loops · compliance-as-infra · hybrid RAG
-install     git clone + ./setup → ~/.claude/skills/
-docs        serena-ai-architect.github.io/fin-agent-skills
+skills    /analyst (8 sub-commands) · /regtech (7 sub-commands)
+patterns  skill-composition · quality loops · compliance-as-infra · hybrid RAG
+install   git clone + ./setup → ~/.claude/skills/
 ```
 
-> *gstack (Garry Tan) has 25 skills for SDLC workflow.*
-> *fin-agent-skills has 2 skills for financial AI engineering —*
-> *because methodology is more valuable than commands.*
+> *gstack (Garry Tan) has 25 skills for SDLC workflow. fin-agent-skills has 2 skills for financial AI engineering — because methodology is more valuable than commands.*
 
 </td>
-
 </tr>
 </table>
 
