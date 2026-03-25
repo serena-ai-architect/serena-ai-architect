@@ -67,19 +67,20 @@ cost     DeepSeek-V3 (~$0.025/report) · 3-tier budget
 
 <td width="50%" valign="top">
 
-### [`agentflow`](https://github.com/serena-ai-architect/agentflow) &ensp; <img src="https://img.shields.io/badge/status-production-22C55E?style=flat-square" />
+### [`agentOps`](https://github.com/serena-ai-architect/agentOps) &ensp; <img src="https://img.shields.io/badge/status-production-22C55E?style=flat-square" />
 
-**AI-Native Enterprise Work Platform**
+**AI-native DevOps Platform**
 
-Replaced 2 ops engineers with approval-driven multi-cloud
-automation at a central SOE. Phase 2 adds LLM Coding Agent
-+ conversational cloud ops.
+Replacing manual ops with autonomous agents.
+Approval-driven workflows trigger multi-cloud
+resource provisioning, CI/CD pipeline creation,
+and DNS/SSL management — zero human intervention.
 
 ```
 stack    Python · FastAPI · APScheduler · SQLite
 cloud    Alibaba (10 modules) · Huawei (Ascend GPU) · Tencent
-IM       Lark approval workflows · bot notifications
-phase2   LLM Coding Agent · dual-model cross review
+ops      approval-driven workflows · autonomous provisioning
+phase2   LLM Coding Agent · conversational cloud ops
 ```
 
 </td>
