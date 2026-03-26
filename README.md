@@ -1,12 +1,12 @@
 <!-- ════════════════════════════════════════════════════════════════════
      agent:   serena
-     domain:  agentic AI architect · skill-composition · compliance-as-infrastructure
-     status:  building the AI layer enterprises actually need
+     domain:  AI implementation leader · enterprise AI delivery · financial services
+     status:  bringing enterprise delivery context to agentic AI — Hong Kong
      ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=A3B8CC&center=true&vCenter=true&repeat=true&width=780&height=60&lines=Agentic+AI+architect+%E2%80%94+not+demos%2C+production;MCP+%C2%B7+skill-composition+%C2%B7+compliance-as-infrastructure;10+years+shipping+in+regulated+environments)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=A3B8CC&center=true&vCenter=true&repeat=true&width=780&height=60&lines=AI+Implementation+Leader+%E2%80%94+build+%2B+lead+%2B+deliver;10+years+enterprise+IT+%C2%B7+4+years+managing+30-person+teams;MCP+%C2%B7+agentic+systems+%C2%B7+Hong+Kong+financial+services)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,17 +19,22 @@ serena@infra:~$ cat /etc/profile
 ```yaml
 # ─── SYSTEM PROFILE ─────────────────────────────────────────────────
 #
-#   I architect composable, production-grade AI systems
-#   that plug into enterprise workflows —
-#   MCP skill servers, RAG pipelines, agent orchestration,
-#   and evaluation frameworks that make AI reliable enough
-#   for regulated environments.
-#
 #   10 years delivering enterprise IT at scale
-#   (SOE, banking, e-commerce) across 40+ vendor ecosystems,
-#   now building the AI capability layer on top of it.
+#   (ICBC Technology, JD.com, NetEase, Central SOE)
+#   — managing 30-person teams, governing 40+ vendor ecosystems,
+#   shipping under regulatory audit.
 #
-#   PMP® · MSc Engineering · Bilingual (CN/EN)
+#   Now designing and building agentic AI frameworks:
+#   multi-agent orchestration, MCP tool servers, RAG pipelines,
+#   and evaluation systems for regulated environments.
+#
+#   The hard part of enterprise AI is never the model.
+#   It's the workflow decomposition, the quality gates,
+#   and the organisational readiness.
+#   I've seen both sides — I can build it and I can lead it.
+#
+#   PMP® · MSc Engineering, Melbourne · Bilingual (CN/EN)
+#   Hong Kong ID holder · Relocating to HK
 #
 # ────────────────────────────────────────────────────────────────────
 ```
@@ -37,56 +42,74 @@ serena@infra:~$ cat /etc/profile
 ---
 
 ```
-serena@infra:~$ ls -la ./projects --group-by=audience
+serena@infra:~$ ls -la ./projects
 ```
 
-### `for human` — products with interfaces people touch
+### AI Systems — independently designed and built
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### [`agentic-analyst`](https://github.com/serena-ai-architect/agentic-analyst) &ensp; <img src="https://img.shields.io/badge/status-production-22C55E?style=flat-square" />
+### [`agentic-analyst`](https://github.com/serena-ai-architect/agentic-analyst) &ensp; <img src="https://img.shields.io/badge/status-complete-3B82F6?style=flat-square" />
 
-**Skill-Composition Investment Intelligence**
+**Multi-Agent Investment Intelligence Platform**
 
-9 composable MCP skills across 4 domains,
-orchestrated by LangGraph.js. Real-time pipeline
-visualization (SVG DAG + SSE), Reflexion self-improvement,
-Process Reward Model, cost tracking per agent.
+10 ReAct agents across 4 skill domains
+(Research, Analysis, Compliance & Risk, Delivery),
+orchestrated by LangGraph.js. Reflexion self-improvement,
+Process Reward Model, real-time pipeline visualization.
 
 ```
 stack    TypeScript · LangGraph.js · Next.js 15 · Turborepo
-skills   9 MCP tools (research · analysis · compliance · delivery)
-eval     8-layer pyramid · 309 tests · LLM-as-Judge
-cost     DeepSeek-V3 (~$0.025/report) · 3-tier budget
+skills   9 MCP tools via hk-regtech-mcp
+eval     8-layer test pyramid · 309 tests · LLM-as-Judge
+cost     DeepSeek-V3 (~$0.025/report) · 3-tier budget guard
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-### [`agentOps`](https://github.com/serena-ai-architect/agentOps) &ensp; <img src="https://img.shields.io/badge/status-production-22C55E?style=flat-square" />
+### [`hk-regtech-mcp`](https://github.com/serena-ai-architect/hk-regtech-mcp) &ensp; <img src="https://img.shields.io/badge/status-complete-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-4f46e5?style=flat-square&logoColor=white" />
 
-**AI-native DevOps Platform**
+**HK RegTech MCP Server — Compliance-as-Infrastructure**
 
-Replacing manual ops with autonomous agents.
-Approval-driven workflows trigger multi-cloud
-resource provisioning, CI/CD pipeline creation,
-and DNS/SSL management — zero human intervention.
+9 composable MCP tools for financial intelligence
+and HK regulatory compliance. Regulatory rules encoded
+as structured, auditable data — not LLM prompts.
+Any MCP-compatible agent can consume them.
 
 ```
-stack    Python · FastAPI · APScheduler · SQLite
-cloud    Alibaba (10 modules) · Huawei (Ascend GPU) · Tencent
-ops      approval-driven workflows · autonomous provisioning
-phase2   LLM Coding Agent · conversational cloud ops
+stack       Python · FastAPI · MCP SDK · pgvector
+RAG         BM25 + vector + RRF fusion · cross-encoder rerank
+compliance  HKMA · SFC · PDPO · HKEX (15 rules, 6 cross-border factors)
 ```
 
 </td>
 
 </tr>
 <tr>
+
+<td width="50%" valign="top">
+
+### [`agentOps`](https://github.com/serena-ai-architect/agentOps) &ensp; <img src="https://img.shields.io/badge/status-enterprise_prototype-F59E0B?style=flat-square" />
+
+**Enterprise Multi-Cloud Automation Engine**
+
+Designed for a Central SOE. Lark-approval-driven
+workflows automate cloud operations across 3 providers
+with full audit logging. Technology works —
+organisation is on its adoption journey.
+
+```
+stack    Python · FastAPI · APScheduler · SQLite
+cloud    Alibaba (10 modules) · Huawei (Ascend GPU) · Tencent
+ops      Lark approval workflows · audit-compliant logging
+```
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -95,131 +118,53 @@ phase2   LLM Coding Agent · conversational cloud ops
 **Pattern Portability Across Domains**
 
 Same orchestration patterns (Reflexion, multi-model
-routing, Zod schema validation) applied to a
-completely different domain — proving skill-composition
-infrastructure works beyond a single use case.
+routing, Zod schema validation) applied to advertising
+— proving the skill-composition architecture works
+beyond a single use case.
 
 ```
 stack    TypeScript · LangGraph.js · Next.js 15
 models   Claude Sonnet (gen) + Haiku (eval)
 pattern  Reflexion loop · conditional crew routing
-infra    Prisma · BullMQ · Redis · Storybook
 ```
 
 </td>
 
-<td width="50%" valign="top">
-
-&nbsp;
-
-</td>
-
-</tr>
-</table>
-
-### `for agents` — infrastructure AI systems consume
-
-<table>
-<tr>
-<td valign="top">
-
-### [`hk-regtech-mcp`](https://github.com/serena-ai-architect/hk-regtech-mcp) &ensp; <img src="https://img.shields.io/badge/status-production-22C55E?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-4f46e5?style=flat-square&logoColor=white" />
-
-**Compliance-as-Infrastructure for Hong Kong Financial Markets**
-
-Not an app — a capability layer. 9 MCP tools that any AI system auto-discovers and consumes via standard protocol. HK regulatory rules (HKMA, SFC, PDPO, HKEX) encoded as structured, auditable, version-controlled data — not hardcoded into agent prompts.
-
-```
-stack       Python · FastAPI · MCP SDK · pgvector
-RAG         BM25 + vector + RRF fusion · cross-encoder rerank
-compliance  HKMA · SFC · PDPO · HKEX (15 rules, 6 cross-border factors)
-consumers   agentic-analyst · Claude Desktop · any MCP-compatible agent
-```
-
-> *hk-regtech-mcp is for AI agents to call. Users don't need to know it exists — their AI assistant just becomes better at Hong Kong compliance.*
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### [`fin-agent-skills`](https://github.com/serena-ai-architect/fin-agent-skills) &ensp; <img src="https://img.shields.io/badge/status-production-22C55E?style=flat-square" /> <img src="https://img.shields.io/badge/Skills-8B5CF6?style=flat-square&logoColor=white" />
-
-**Engineering Methodology as Installable Skills**
-
-Not documentation — executable methodology. 2 Claude Code Skills (`/analyst` + `/regtech`) that encode the patterns behind skill-composition, compliance-as-infrastructure, hybrid RAG, and 8-layer test pyramids.
-
-```
-skills    /analyst (8 sub-commands) · /regtech (7 sub-commands)
-patterns  skill-composition · quality loops · compliance-as-infra · hybrid RAG
-install   git clone + ./setup → ~/.claude/skills/
-```
-
-> *gstack (Garry Tan) has 25 skills for SDLC workflow. fin-agent-skills has 2 skills for financial AI engineering — because methodology is more valuable than commands.*
-
-</td>
 </tr>
 </table>
 
 ---
 
 ```
-serena@infra:~$ cat ./infra-patterns.yml
+serena@infra:~$ cat ./approach.yml
 ```
 
 ```yaml
-# ─── What I build is not apps — it's the layer underneath ──────────
+# ─── How I think about enterprise AI ────────────────────────────────
 
-skill_composition:
-  philosophy: |
-    Not "10 agents in 4 crews" — that's implementation detail.
-    The architecture is: composable skills exposed via MCP,
-    orchestrated by a state machine, evaluated at every step.
-    Swap the domain (finance → ads → ops), the pattern holds.
+what_i_build:
+  - MCP tool servers — composable capabilities any AI agent can consume
+  - Multi-agent orchestration — LangGraph state machines with quality gates
+  - RAG pipelines — hybrid retrieval (BM25 + vector + RRF) with citations
+  - Evaluation frameworks — 8-layer test pyramids, Reflexion, Process Reward Models
 
-  compliance_as_infrastructure:
-    - Regulatory rules encoded as data, not agent prompts
-    - Exposed via MCP — any AI system auto-discovers compliance capability
-    - Auditable: every check returns regulation ID + source + timestamp
-    - Scalable: add a new regulation = add data, not rewrite agents
+how_i_think:
+  - Compliance rules belong in structured data, not LLM prompts
+  - The hard part is organisational readiness, not model selection
+  - AI systems in regulated environments need audit trails, not just accuracy
+  - Cost governance is a feature, not an afterthought
 
-  tool_layer:
-    - MCP servers (standardized interface for any agent)
-    - Function calling design · Zod schema validation
-    - Reusable across agent frameworks and LLM providers
-
-  retrieval_infra:
-    - Hybrid RAG: BM25 (keyword) + vector (semantic) + RRF fusion
-    - Cross-encoder reranking · citation generation
-    - pgvector on Supabase · chunking + embedding pipelines
-
-  orchestration:
-    - LangGraph.js state machines · conditional routing
-    - Multi-model cost routing (DeepSeek/Sonnet/Haiku per stage)
-    - Reflexion loops with LLM-as-Judge quality gates
-    - Parallel execution · graceful degradation
-
-  evaluation_and_reliability:
-    - 8-layer testing pyramid (unit → boundary → eval with real LLM)
-    - Process Reward Models (step-level quality scoring)
-    - Anti-hallucination: AUTHORITATIVE data marking · verified appendix
-    - Golden dataset regression testing (9 cases)
-
-enterprise_context:
-  why_this_matters: |
-    10 years on the other side of the table —
-    governing 40+ vendor ecosystems, running 30-person teams,
-    delivering under regulatory audit pressure.
-    I know what enterprises actually need from AI infrastructure:
-    not demos, but systems that are auditable, cost-controlled,
-    and composable enough to fit into existing workflows.
-
-  regulated_environments:
-    - Higher Education Press (Central SOE, Ministry of Education)
-      → 40+ projects/year · 40+ vendor governance · 100% audit pass
-    - ICBC Technology (banking-grade regulated releases)
-    - NetEase (multi-country regulatory + payment compliance)
-    - Cloud cost optimization: 20% reduction via governance
+what_i_bring:
+  enterprise_delivery:
+    - 4 years managing 30-person team, 40+ programmes/year, 100% audit pass
+    - 40+ vendor governance under regulatory constraints
+    - 20% cloud cost reduction through multi-provider strategy
+  technical_depth:
+    - Built 3 agentic AI systems independently (not tutorials — original architecture)
+    - Python + TypeScript dual-stack, MCP protocol, hybrid RAG, FinBERT
+  domain_focus:
+    - Hong Kong financial services (HKMA, SFC, PDPO, HKEX)
+    - Cross-border regulatory risk (HK ↔ Mainland ↔ International)
 ```
 
 ---
@@ -229,10 +174,10 @@ serena@infra:~$ tail -f ./current.log
 ```
 
 ```
-[2026-03]  BUILDING    MCP skill servers · compliance-as-infrastructure · RAG pipelines
-[2026-03]  SHIPPING    Skill-composition orchestration (TypeScript + Python)
-[2026-03]  TARGETING   HK fintech — HKMA GenAI Sandbox ecosystem · regulated AI deployment
-[2026-04]  RELOCATING  Hong Kong — looking for AI architect roles in financial services
+[2026-03]  BUILDING    Agentic AI frameworks · MCP servers · RAG pipelines
+[2026-03]  LEADING     Enterprise AI strategy — from architecture to adoption
+[2026-04]  RELOCATING  Hong Kong — targeting AI implementation roles in financial services
+[status]   OPEN TO WORK — HK ID holder, no sponsorship required
 ```
 
 ---
@@ -249,8 +194,8 @@ serena@infra:~$ cat ./connect.md
 
 <br>
 
-<sub>Enterprises don't need another AI demo. They need infrastructure that's auditable, cost-controlled, and composable.</sub>
+<sub>The hard part of enterprise AI is never the model — it's the workflow decomposition, the quality gates,</sub>
 <br>
-<sub>I build the capability layer — for agents, not just for humans.</sub>
+<sub>and the organisational readiness. I've seen both sides. I can build it and I can lead it.</sub>
 
 </div>
