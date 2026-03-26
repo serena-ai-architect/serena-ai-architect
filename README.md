@@ -42,10 +42,10 @@ serena@infra:~$ cat /etc/profile
 ---
 
 ```
-serena@infra:~$ ls -la ./projects
+serena@infra:~$ ls -la ./projects --group-by=audience
 ```
 
-### AI Systems — independently designed and built
+### `for human` — products with interfaces people touch
 
 <table>
 <tr>
@@ -72,28 +72,6 @@ cost     DeepSeek-V3 (~$0.025/report) · 3-tier budget guard
 
 <td width="50%" valign="top">
 
-### [`hk-regtech-mcp`](https://github.com/serena-ai-architect/hk-regtech-mcp) &ensp; <img src="https://img.shields.io/badge/status-complete-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-4f46e5?style=flat-square&logoColor=white" />
-
-**HK RegTech MCP Server — Compliance-as-Infrastructure**
-
-9 composable MCP tools for financial intelligence
-and HK regulatory compliance. Regulatory rules encoded
-as structured, auditable data — not LLM prompts.
-Any MCP-compatible agent can consume them.
-
-```
-stack       Python · FastAPI · MCP SDK · pgvector
-RAG         BM25 + vector + RRF fusion · cross-encoder rerank
-compliance  HKMA · SFC · PDPO · HKEX (15 rules, 6 cross-border factors)
-```
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
 ### [`agentOps`](https://github.com/serena-ai-architect/agentOps) &ensp; <img src="https://img.shields.io/badge/status-enterprise_prototype-F59E0B?style=flat-square" />
 
 **Enterprise Multi-Cloud Automation Engine**
@@ -111,21 +89,48 @@ ops      Lark approval workflows · audit-compliant logging
 
 </td>
 
+</tr>
+</table>
+
+### `for agents` — infrastructure AI systems consume
+
+<table>
+<tr>
+
 <td width="50%" valign="top">
 
-### [`adwing`](https://github.com/serena-ai-architect/adwing) &ensp; <img src="https://img.shields.io/badge/status-MVP-3B82F6?style=flat-square" />
+### [`hk-regtech-mcp`](https://github.com/serena-ai-architect/hk-regtech-mcp) &ensp; <img src="https://img.shields.io/badge/status-complete-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/MCP-4f46e5?style=flat-square&logoColor=white" />
 
-**Pattern Portability Across Domains**
+**HK RegTech MCP Server — Compliance-as-Infrastructure**
 
-Same orchestration patterns (Reflexion, multi-model
-routing, Zod schema validation) applied to advertising
-— proving the skill-composition architecture works
-beyond a single use case.
+9 composable MCP tools for financial intelligence
+and HK regulatory compliance. Regulatory rules encoded
+as structured, auditable data — not LLM prompts.
+Any MCP-compatible agent can consume them.
 
 ```
-stack    TypeScript · LangGraph.js · Next.js 15
-models   Claude Sonnet (gen) + Haiku (eval)
-pattern  Reflexion loop · conditional crew routing
+stack       Python · FastAPI · MCP SDK · pgvector
+RAG         BM25 + vector + RRF fusion · cross-encoder rerank
+compliance  HKMA · SFC · PDPO · HKEX (15 rules, 6 cross-border factors)
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### [`fin-agent-skills`](https://github.com/serena-ai-architect/fin-agent-skills) &ensp; <img src="https://img.shields.io/badge/status-deployed-22C55E?style=flat-square" /> <img src="https://img.shields.io/badge/Skills-8B5CF6?style=flat-square&logoColor=white" />
+
+**Financial AI Engineering as Installable Skills**
+
+2 Claude Code Skills (`/analyst` + `/regtech`) that
+encode the methodology behind skill-composition,
+compliance-as-infrastructure, and financial AI
+engineering — executable, not just documented.
+
+```
+skills    /analyst (8 sub-commands) · /regtech (7 sub-commands)
+domain    investment analysis · HK regulatory compliance
+install   git clone + ./setup → ready to use
 ```
 
 </td>
