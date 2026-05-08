@@ -197,8 +197,8 @@ serena@infra:~$ tail -f ./current.log
 ```
 
 ```
-[2026-03]  BUILDING    Agentic AI frameworks · MCP servers · RAG pipelines
-[2026-03]  LEADING     Enterprise AI strategy — from architecture to adoption
+[2025-03]  BUILDING    Agentic AI frameworks · MCP servers · RAG pipelines
+[2025-09]  LEADING     Enterprise AI strategy — from architecture to adoption
 [2026-04]  RELOCATING  Hong Kong — targeting AI delivery roles across regulated sectors
 [status]   OPEN TO WORK — HK ID holder, no sponsorship required
 ```
