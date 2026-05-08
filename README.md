@@ -1,12 +1,12 @@
 <!-- ════════════════════════════════════════════════════════════════════
      agent:   serena
-     domain:  AI implementation leader · enterprise AI delivery · financial services
-     status:  bringing enterprise delivery context to agentic AI — Hong Kong
+     domain:  regulated enterprise AI · platform delivery · workflow automation
+     status:  building AI systems for regulated, multi-stakeholder institutions
      ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=A3B8CC&center=true&vCenter=true&repeat=true&width=780&height=60&lines=AI+Implementation+Leader+%E2%80%94+build+%2B+lead+%2B+deliver;10+years+enterprise+IT+%C2%B7+4+years+managing+30-person+teams;MCP+%C2%B7+agentic+systems+%C2%B7+Hong+Kong+financial+services)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=A3B8CC&center=true&vCenter=true&repeat=true&width=820&height=60&lines=Regulated+Enterprise+AI+%E2%80%94+Platform+Delivery+%C2%B7+Workflow+Automation;10%2B+years+enterprise+IT+%C2%B7+4%2B+years+leading+30-person+hybrid+teams;Financial+technology+%C2%B7+healthcare+platforms+%C2%B7+higher+education)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,22 +19,26 @@ serena@infra:~$ cat /etc/profile
 ```yaml
 # ─── SYSTEM PROFILE ─────────────────────────────────────────────────
 #
-#   10 years delivering enterprise IT at scale
-#   (ICBC Technology, JD.com, NetEase, Central SOE)
-#   — managing 30-person teams, governing 40+ vendor ecosystems,
-#   shipping under regulatory audit.
+#   10+ years delivering enterprise IT at scale.
+#   Background across financial technology, healthcare platform
+#   exposure, and higher education digital transformation.
 #
-#   Now designing and building agentic AI frameworks:
-#   multi-agent orchestration, MCP tool servers, RAG pipelines,
-#   and evaluation systems for regulated environments.
+#   Led hybrid technical teams, vendor ecosystems, and audit-ready
+#   delivery in regulated, multi-stakeholder institutional environments.
 #
-#   The hard part of enterprise AI is never the model.
-#   It's the workflow decomposition, the quality gates,
-#   and the organisational readiness.
-#   I've seen both sides — I can build it and I can lead it.
+#   Now building enterprise AI systems:
+#   - multi-agent orchestration
+#   - MCP tool servers
+#   - RAG pipelines
+#   - evaluation frameworks
+#   - workflow automation
+#   - audit trails and quality gates
+#
+#   I focus on the operational layer of AI —
+#   workflow design, data readiness, cost governance, audit evidence.
 #
 #   PMP® · MSc Engineering, Melbourne · Bilingual (CN/EN)
-#   Hong Kong ID holder · Relocating to HK
+#   Hong Kong ID holder · No sponsorship required
 #
 # ────────────────────────────────────────────────────────────────────
 ```
@@ -45,41 +49,21 @@ serena@infra:~$ cat /etc/profile
 serena@infra:~$ ls -la ./projects --group-by=audience
 ```
 
-### `for human` — products with interfaces people touch
+### `for institutions` &nbsp;—&nbsp; platforms regulated organisations run on
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-### [`agentic-analyst`](https://github.com/serena-ai-architect/agentic-analyst) &ensp; <img src="https://img.shields.io/badge/status-complete-3B82F6?style=flat-square" />
-
-**Multi-Agent Investment Intelligence Platform**
-
-10 ReAct agents across 4 skill domains
-(Research, Analysis, Compliance & Risk, Delivery),
-orchestrated by LangGraph.js. Reflexion self-improvement,
-Process Reward Model, real-time pipeline visualization.
-
-```
-stack    TypeScript · LangGraph.js · Next.js 15 · Turborepo
-skills   9 MCP tools via hk-regtech-mcp
-eval     8-layer test pyramid · 309 tests · LLM-as-Judge
-cost     DeepSeek-V3 (~$0.025/report) · 3-tier budget guard
-```
-
-</td>
-
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### [`agentOps`](https://github.com/serena-ai-architect/agentOps) &ensp; <img src="https://img.shields.io/badge/status-enterprise_prototype-F59E0B?style=flat-square" />
 
 **Enterprise Multi-Cloud Automation Engine**
 
-Designed for a Central SOE. Lark-approval-driven
-workflows automate cloud operations across 3 providers
-with full audit logging. Technology works —
-organisation is on its adoption journey.
+Enterprise multi-cloud automation engine for regulated cloud
+operations across multi-provider environments — approval
+workflows, audit logs, cost governance, and deployment
+traceability. Designed for regulated enterprise environments
+where every change needs an evidence trail.
 
 ```
 stack    Python · FastAPI · APScheduler · SQLite
@@ -88,11 +72,10 @@ ops      Lark approval workflows · audit-compliant logging
 ```
 
 </td>
-
 </tr>
 </table>
 
-### `for agents` — infrastructure AI systems consume
+### `for regulated AI` &nbsp;—&nbsp; compliance-aware intelligence systems
 
 <table>
 <tr>
@@ -103,10 +86,14 @@ ops      Lark approval workflows · audit-compliant logging
 
 **HK RegTech MCP Server — Compliance-as-Infrastructure**
 
-9 composable MCP tools for financial intelligence
-and HK regulatory compliance. Regulatory rules encoded
-as structured, auditable data — not LLM prompts.
-Any MCP-compatible agent can consume them.
+9 composable MCP tools for financial intelligence and HK
+regulatory compliance. Regulatory rules encoded as
+structured, auditable data — not LLM prompts. Any
+MCP-compatible agent can consume them.
+
+The compliance-as-infrastructure pattern can be adapted
+to finance, healthcare, education and research governance
+workflows.
 
 ```
 stack       Python · FastAPI · MCP SDK · pgvector
@@ -138,6 +125,34 @@ install   git clone + ./setup → ready to use
 </tr>
 </table>
 
+### `for decision workflows` &nbsp;—&nbsp; analytical products with human review
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### [`agentic-analyst`](https://github.com/serena-ai-architect/agentic-analyst) &ensp; <img src="https://img.shields.io/badge/status-complete-3B82F6?style=flat-square" />
+
+**Multi-Agent Intelligence Platform for Regulated Analytical Workflows**
+
+Demonstrated on financial intelligence; architecture applies
+to research synthesis, clinical literature review and
+compliance documentation. 10 ReAct agents across 4 skill
+domains (Research, Analysis, Compliance & Risk, Delivery),
+orchestrated by LangGraph.js with Reflexion self-improvement
+and human-in-the-loop quality control.
+
+```
+stack    TypeScript · LangGraph.js · Next.js 15 · Turborepo
+skills   9 MCP tools via hk-regtech-mcp
+eval     8-layer test pyramid · 309 tests · LLM-as-Judge
+cost     DeepSeek-V3 (~$0.025/report) · 3-tier budget guard
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
 ```
@@ -161,15 +176,18 @@ how_i_think:
 
 what_i_bring:
   enterprise_delivery:
-    - 4 years managing 30-person team, 40+ programmes/year, 100% audit pass
+    - 4+ years leading 30-person hybrid teams, 40+ programmes/year, 100% audit pass
     - 40+ vendor governance under regulatory constraints
     - 20% cloud cost reduction through multi-provider strategy
   technical_depth:
     - Built 3 agentic AI systems independently (not tutorials — original architecture)
     - Python + TypeScript dual-stack, MCP protocol, hybrid RAG, FinBERT
   domain_focus:
-    - Hong Kong financial services (HKMA, SFC, PDPO, HKEX)
-    - Cross-border regulatory risk (HK ↔ Mainland ↔ International)
+    - Regulated AI systems: finance, healthcare, education
+    - Research and institutional digital platforms
+    - Enterprise workflow automation
+    - AI governance, audit trails, and compliance-aware delivery
+    - Cross-border data and regulatory workflows
 ```
 
 ---
@@ -181,7 +199,7 @@ serena@infra:~$ tail -f ./current.log
 ```
 [2026-03]  BUILDING    Agentic AI frameworks · MCP servers · RAG pipelines
 [2026-03]  LEADING     Enterprise AI strategy — from architecture to adoption
-[2026-04]  RELOCATING  Hong Kong — targeting AI implementation roles in financial services
+[2026-04]  RELOCATING  Hong Kong — targeting AI delivery roles across regulated sectors
 [status]   OPEN TO WORK — HK ID holder, no sponsorship required
 ```
 
