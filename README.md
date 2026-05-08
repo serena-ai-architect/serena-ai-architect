@@ -153,6 +153,35 @@ cost     DeepSeek-V3 (~$0.025/report) · 3-tier budget guard
 </tr>
 </table>
 
+### `for architects & reviewers` &nbsp;—&nbsp; methodology, patterns, and policy reference
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### [`regulated-ai-systems-playbook`](https://github.com/serena-ai-architect/regulated-ai-systems-playbook) &ensp; <img src="https://img.shields.io/badge/status-living_document-3B82F6?style=flat-square" /> <img src="https://img.shields.io/badge/scope-architecture+policy-8B5CF6?style=flat-square" />
+
+**Regulated AI Systems Playbook**
+
+An architectural playbook for AI systems in regulated,
+multi-stakeholder institutions — annotated with Hong Kong's
+policy landscape (HKMA GenAI Supervisory Incubator, SFC AI
+guidance, PCPD, HKEX, Cyberport / HKSTP, university research
+centres) and cross-sector applicability across finance,
+healthcare, education and research.
+
+```
+content   9-layer regulated AI stack · HK policy landscape
+          cross-sector pattern translation · case walkthroughs
+audience  HK financial AI / RegTech · university AI centres
+          bank IT PMO / vendor governance / institutional CTO
+status    Phase 1 published · Phase 2 in progress
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
 ```
