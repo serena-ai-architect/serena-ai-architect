@@ -1,7 +1,7 @@
 <!-- ════════════════════════════════════════════════════════════════════
      agent:   serena
      domain:  regulated enterprise AI · platform delivery · workflow automation
-     status:  building AI systems for regulated, multi-stakeholder institutions
+     status:  prototyping & validating regulated AI systems / platform patterns
      ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -212,7 +212,7 @@ what_i_bring:
     - 40+ vendor governance under regulatory constraints
     - 20% cloud cost reduction through multi-provider strategy
   technical_depth:
-    - Built 3 agentic AI systems independently (not tutorials — original architecture)
+    - Built and validated 3 agentic AI systems independently (original architecture, not tutorials)
     - Python + TypeScript dual-stack, MCP protocol, hybrid RAG, FinBERT
   domain_focus:
     - Regulated AI systems: finance, healthcare, education
@@ -230,7 +230,7 @@ serena@infra:~$ tail -f ./current.log
 
 ```
 [2025-03]  BUILDING    Agentic AI frameworks · MCP servers · RAG pipelines
-[2025-09]  LEADING     Enterprise AI strategy — from architecture to adoption
+[2025-09]  VALIDATING  Regulated AI patterns — architecture · evaluation · governance
 [2026-04]  RELOCATING  Hong Kong — targeting AI delivery roles across regulated sectors
 [status]   OPEN TO WORK — HK ID holder, no sponsorship required
 ```
@@ -251,6 +251,6 @@ serena@infra:~$ cat ./connect.md
 
 <sub>The hard part of enterprise AI is never the model — it's the workflow decomposition, the quality gates,</sub>
 <br>
-<sub>and the organisational readiness. I've seen both sides. I can build it and I can lead it.</sub>
+<sub>and the organisational readiness. I've seen both sides — I prototype the patterns, and I lead the delivery.</sub>
 
 </div>
