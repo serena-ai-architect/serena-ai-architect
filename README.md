@@ -231,7 +231,7 @@ serena@infra:~$ tail -f ./current.log
 ```
 [2025-03]  BUILDING    Agentic AI frameworks · MCP servers · RAG pipelines
 [2025-09]  VALIDATING  Regulated AI patterns — architecture · evaluation · governance
-[status]   OPEN TO WORK — AI delivery & governance roles, regulated sectors · HK ID holder · no sponsorship required
+[focus]    AI delivery & governance roles, regulated sectors · HK-based · HK ID holder · no sponsorship required
 ```
 
 ---
