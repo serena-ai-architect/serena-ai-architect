@@ -231,8 +231,7 @@ serena@infra:~$ tail -f ./current.log
 ```
 [2025-03]  BUILDING    Agentic AI frameworks · MCP servers · RAG pipelines
 [2025-09]  VALIDATING  Regulated AI patterns — architecture · evaluation · governance
-[2026-04]  RELOCATING  Hong Kong — targeting AI delivery roles across regulated sectors
-[status]   OPEN TO WORK — HK ID holder, no sponsorship required
+[status]   OPEN TO WORK — AI delivery & governance roles, regulated sectors · HK ID holder · no sponsorship required
 ```
 
 ---
@@ -245,7 +244,7 @@ serena@infra:~$ cat ./connect.md
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serena-ai-architect/)
 &ensp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:serena.happyhacking@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:serena.wang.hk@gmail.com)
 
 <br>
 
