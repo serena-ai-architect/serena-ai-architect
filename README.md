@@ -19,23 +19,26 @@ serena@infra:~$ cat /etc/profile
 ```yaml
 # ─── SYSTEM PROFILE ─────────────────────────────────────────────────
 #
-#   10+ years delivering enterprise IT at scale.
-#   Background across financial technology, healthcare platform
-#   exposure, and higher education digital transformation.
+#   10+ years delivering enterprise IT and digital transformation
+#   across financial technology, healthcare platform exposure,
+#   and higher education publishing.
 #
-#   Led hybrid technical teams, vendor ecosystems, and audit-ready
-#   delivery in regulated, multi-stakeholder institutional environments.
+#   Led hybrid technical teams, vendor ecosystems, cloud resources,
+#   and audit-ready delivery in regulated, multi-stakeholder
+#   institutional environments.
 #
-#   Now building enterprise AI systems:
+#   Now using AI-assisted engineering to prototype and validate
+#   regulated enterprise AI patterns:
 #   - multi-agent orchestration
 #   - MCP tool servers
-#   - RAG pipelines
+#   - RAG pipelines and vector retrieval
 #   - evaluation frameworks
 #   - workflow automation
-#   - audit trails and quality gates
+#   - audit trails and human review gates
 #
-#   I focus on the operational layer of AI —
-#   workflow design, data readiness, cost governance, audit evidence.
+#   I focus on the operational layer of AI:
+#   workflow design, data readiness, cost governance,
+#   vendor coordination, audit evidence, and delivery controls.
 #
 #   PMP® · MSc Engineering, Melbourne · Bilingual (CN/EN)
 #   Hong Kong ID holder · No sponsorship required
